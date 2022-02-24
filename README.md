@@ -19,5 +19,9 @@ The original data came from Kaggle. https://www.kaggle.com/ayku09/face-mask-imag
 
 >Trained a transfer learning model with competitive performance and with accuracy of 98%
 
+<Br>
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at <a href="mailto:mishraanmol258@gmail.com?subject=Hello%20Anmol" target="_top">
+mishraanmol258@gmail.com</a> 
+
 
 
